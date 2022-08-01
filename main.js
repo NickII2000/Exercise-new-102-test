@@ -1,9 +1,9 @@
 function myModule() {
     this.hello = function () {
-        console.log('hello!!!!!');
+        console.log('hello');
     };
     this.goodbye = function () {
-        console.log('bye!!!!!!!');
+        console.log('bye!!');
     };
 }
 
